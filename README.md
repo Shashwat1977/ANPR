@@ -5,7 +5,7 @@
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8.git
+git clone https://github.com/Shashwat1977/ANPR.git
 ```
 - Goto the cloned folder.
 ```
